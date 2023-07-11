@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/addImage"
+        android:title="@string/add_image"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_add_icon"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"/>
+    <item
+        android:id="@+id/help"
+        android:title="@string/help"/>
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout"/>
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit_app"/>
+</menu>

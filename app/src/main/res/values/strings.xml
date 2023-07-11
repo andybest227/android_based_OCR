@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Android OCR</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="password">Password</string>
+    <string name="email">Email Address</string>
+    <string name="username">Username</string>
+    <string name="back_to_login">Go back to Login</string>
+    <string name="todo">TODO</string>
+    <string name="result">Preview</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="logout">Logout</string>
+    <string name="add_image">Add Image</string>
+    <string name="exit_app">Exit</string>
+    <string name="start">New</string>
+    <string name="welcome_text">You are welcome</string>
+    <string name="sub_text">Press desired button to begin</string>
+    <string name="open">Open</string>
+    <string name="recent_documents">All Documents</string>
+    <string name="result_goes_here">Result goes here…</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+</resources>
